@@ -7,8 +7,4 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SsmuApiApplicationTests {
     private int ome = 0;
 
-    private int ome = 0;
-    private int ome = 0;
-    private int ome = 0;
-    private int ome = 0;
 }
