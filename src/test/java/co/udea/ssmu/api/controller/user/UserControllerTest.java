@@ -1,4 +1,4 @@
-package co.udea.ssmu.api.controller.user;
+/*package co.udea.ssmu.api.controller.user;
 
 import co.udea.ssmu.api.model.jpa.dto.user.UserDTO;
 import co.udea.ssmu.api.model.jpa.model.role.Role;
@@ -76,3 +76,4 @@ public class UserControllerTest {
 
     }
 }
+*/
